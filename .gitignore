@@ -209,4 +209,5 @@ __marimo__/
 # Project data
 data/videos/raw/*
 !data/videos/raw/README.md
-data/frames/
+data/frames/*
+!data/frames/selected/
